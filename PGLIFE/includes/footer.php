@@ -23,6 +23,6 @@
                 <a href="<?php echo $property_list_path.'?city=Hyderabad'; ?>">PG in Hyderabad</a>
             </div>
         </div>
-        <div class="footer-copyright">© 2025 Copyright PG Life </div>
+        <div class="footer-copyright">© 2026 Copyright PG Life </div>
     </div>
 </div>
