@@ -20,3 +20,12 @@ if (!$conn) {
     die("Connection failed: " . mysqli_connect_error());
 }
 ?>
+
+<?php
+$conn = mysqli_connect(
+    "sql200.infinityfree.com",
+    "if0_41948004",
+    "anurag20044080",
+    "if0_41948004_pg_life"
+);
+?>
