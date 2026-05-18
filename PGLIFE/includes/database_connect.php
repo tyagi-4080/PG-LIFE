@@ -1,14 +1,14 @@
-<!-- <?php
+<?php
   $db_hostname = "127.0.0.1";
   $db_username = "root";
   $db_password = "root4080";
   $db_name = "pg_life";
 
   $con = mysqli_connect( $db_hostname , $db_username , $db_password , $db_name );
-?> -->
+?>
 
 
-<?php
+<!-- <?php
 $conn = mysqli_connect(
     "127.0.0.1",
     "root",
@@ -28,4 +28,4 @@ $conn = mysqli_connect(
     "anurag20044080",
     "if0_41948004_pg_life"
 );
-?>
+?> -->
